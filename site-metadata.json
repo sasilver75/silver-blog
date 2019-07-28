@@ -1,0 +1,16 @@
+{
+    "title": "Blog | Sam Silver",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Sam Silver",
+        "tagline": "Thoughts and Things",
+        "profile_img": "https://images.ctfassets.net/oay58kla6d4r/rVi6Eb2lyqNfTUH9h6wjJ/6ab2d66fa7eece35fa6322267f9e1465/CasualBetter.jpg.png",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "Sam Silver | Built using Stackbit"
+    }
+}
