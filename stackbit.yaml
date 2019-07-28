@@ -1,9 +1,9 @@
 stackbitVersion: ~0.2.34
 uploadDir: images
 metadata:
-  title: Fresh
-  description: A personal theme with a blog
-  author: Stackbit
+  title: Blog | Sam Silver
+  description: Sam's Personal Blog
+  author: Sam Silver
   authorURL: 'https://www.stackbit.com'
   images:
     small: images/demo-256x192.png
